@@ -1,2 +1,2 @@
 # ideathon
-compitetion
+competition
